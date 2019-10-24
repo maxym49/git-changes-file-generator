@@ -22,15 +22,15 @@ git clone https://github.com/maxym49/git-changes-file-generator.git
 npm install
 ```
 
-### 🚀 Running the app
+## 🚀 Running the app
 
-## ⛏️ In the DEV mode
+### ⛏️ In the DEV mode
 
 ```
 npm run dev
 ```
 
-## ⛏️ In the PROD mode
+### ☢ In the PROD mode
 
 ```
 npm start
